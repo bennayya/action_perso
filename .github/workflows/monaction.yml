@@ -12,4 +12,4 @@ jobs:
         uses: bennayya/action_perso@main
         with:
           nom: "bennayya"
-          langue: "es"
+          langue: "fr"
